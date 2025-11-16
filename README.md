@@ -1,9 +1,4 @@
-## Hi! I'm Faiza!    
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning matplotlib
-- 📫 How to reach me: faiza.khanc@gmail.com
-- ⚡ Fun fact: my favourite flowers are magnolias
 
 <h1 align="center">Hi 👋, I'm Faiza Khan</h1>
 <h3 align="center">A Second Year Statistics Specialist at The University of Toronto</h3>
