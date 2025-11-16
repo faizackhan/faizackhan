@@ -1,20 +1,20 @@
-<h1> Welcome to My Page ✧❊✻✼✾❃❋✳︎❀✿❁📱📲💻🖥️⌨️✉️📩📨📧💌💫⭐️🌟✨⚡️☀️🌤️🌸 </h1>
+<h1> ✼✧ Welcome to My Page ✧✼ </h1>
 
 <p>
-✳︎ statistics & data science student @ university of toronto  
-✳︎ aspiring data scientist passionate about building clean, thoughtful projects  
+✿ statistics & data science student @ university of toronto  
+✿ aspiring data scientist passionate about building clean, thoughtful projects  
 </p>
 
 ---
 
-## 🌐 SOCIALS:
-✳︎ <a href="https://faizackhan.github.io">portfolio</a>  
-✳︎ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin!!</a>  
-✳︎ <a href="mailto:faizakhanc@gmail.com">email</a>  
+## contact me 📲
+✳︎ <a href="https://faizackhan.github.io">portfolio</a>  🖥️
+✳︎ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin!!</a> 📨
+✳︎ <a href="mailto:faizakhanc@gmail.com">email</a>  📩
 
 ---
 
-## 🧑‍💻 TECH STACK
+## tech stack 💫
 
 ### **languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
