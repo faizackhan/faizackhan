@@ -9,11 +9,11 @@
 ---
 
 ## contact me 📲
-✳︎ <a href="https://faizackhan.github.io">portfolio</a>  🖥️
+✳︎ <a href="https://faizackhan.github.io">portfolio</a>  
 
-✳︎ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin!!</a> 📨
+✳︎ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin </a> 
 
-✳︎ <a href="mailto:faizakhanc@gmail.com">email</a>  📩
+✳︎ <a href="mailto:faizakhanc@gmail.com">email</a>  
 
 ---
 
