@@ -1,9 +1,8 @@
-<h1 align="center">FAIZA KHAN</h1>
+<h1 Welcome to My Page ✨ </h1>
 
-<p align="center">
+<p align="right">
 🎓 statistics & data science student @ university of toronto  
-💻 aspiring data scientist / software engineer  
-✨ passionate about building clean, thoughtful projects  
+💻 aspiring data scientist passionate about building clean, thoughtful projects  
 </p>
 
 ---
