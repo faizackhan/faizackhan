@@ -1,19 +1,19 @@
-<h1> ✼✧ Welcome to My Page ✧✼ </h1>
+<h1> ✧ Welcome to My Page ✧ </h1>
 
 <p>
-✿ statistics & data science student @ university of toronto  
+✳︎ statistics & data science student @ university of toronto  
   
-✿ aspiring data scientist passionate about building clean, thoughtful projects  
+✳︎ aspiring data scientist passionate about building clean, thoughtful projects  
 </p>
 
 ---
 
 ## contact me 📲
-✳︎ <a href="https://faizackhan.github.io">portfolio</a>  
+✼ <a href="https://faizackhan.github.io">portfolio</a>  
 
-✳︎ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin </a> 
+✼ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin </a> 
 
-✳︎ <a href="mailto:faizakhanc@gmail.com">email</a>  
+✼ <a href="mailto:faizakhanc@gmail.com">email</a>  
 
 ---
 
