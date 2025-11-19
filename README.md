@@ -13,7 +13,7 @@
 
 ✼ <a href="https://www.linkedin.com/in/faiza-khanc">linkedin </a> 
 
-✼ <a href="mailto:faizakhanc@gmail.com">email</a>  
+✼ <a href="mailto:faizakhanc@gmail.com">email: faiza.khanc@gmail.com</a>
 
 ---
 
