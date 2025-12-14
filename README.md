@@ -1,6 +1,6 @@
-<h1> ✧ Welcome to My Page ✧ </h1>
+<h1> ✧ Welcome! ✧ </h1>
 
-![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F5F5F2&center=true&vCenter=true&width=435&lines=Trying+to+be+a+Software+Engineering)
+![Yensubldg](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F5F5F2&center=true&vCenter=true&width=435&lines=Hi+I'm+Faiza!)
 
 <p>
 ✳︎ statistics student @ university of toronto  
