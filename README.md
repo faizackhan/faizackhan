@@ -1,4 +1,4 @@
-<h1> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=100&color=1CFF00A8&width=435&lines=Hi%2C+my+name+is+Faiza+Khan!)](https://git.io/typing-svg) </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=100&color=1CFF00A8&width=435&lines=Hi%2C+my+name+is+Faiza+Khan!)](https://git.io/typing-svg)
 
 <p>
 ✳︎ statistics student @ university of toronto  
