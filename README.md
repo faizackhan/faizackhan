@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=100&color=1CFF00A8&width=435&lines=Hey%2C+my+name+is+Faiza+Khan!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=100&color=1CFF00A8&width=435&lines=Hey%2C+my+name+is+Faiza+Khan!;Welcome+to+my+GitHub!)]
 
 
 <p>
